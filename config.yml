@@ -282,7 +282,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo:https://blogger.googleusercontent.com/img/a/AVvXsEhrEls5F0GLaTpmdqZBosw5mp19yNYjs5ab6zq03CRtuOpAnHwo9fEW98H74bOofLG6Bwm0-NzL2i6VZa9VjXrQ92FKqvr5s0djJ3JpUyeUcTpCo-txPum82nQmATzrkZ-wP7MncQJ2FuiPwm_OvZ5o9GRJNizptcU55wEvSzaNmaKc4-FMWIAqYdU=w200
 
   # This is the description that is shown
   # on the footer and meta tags.
